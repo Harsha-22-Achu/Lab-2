@@ -122,3 +122,5 @@ All database queries that accept user input use parameterized queries with `?` p
 ## Conclusion
 
 Successfully implemented all five CRUD API endpoints using Express.js and SQLite. Tested the endpoints using Postman and verified that database records are correctly inserted, updated and deleted.
+## Deployment Link
+https://lab-2-1-61cm.onrender.com/
